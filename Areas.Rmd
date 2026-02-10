@@ -27,6 +27,13 @@ base <- 2
 altura <- 3
 AreaTriangulo <- (base*altura)/2
 ```
+# Área Rectángulo
+
+```{r}
+lado1 <- 2
+lado2 <- 3
+AreaRectángulo <- lado1 * lado2
+```
 
 
 ## R Markdown
