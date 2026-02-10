@@ -20,6 +20,14 @@ Area <- pi*r^2
 lado <- 3
 AreaCuadrado <- lado^2
 ```
+# Área Triangulo
+
+```{r}
+base <- 2
+altura <- 3
+AreaTriangulo <- (base*altura)/2
+```
+
 
 ## R Markdown
 
